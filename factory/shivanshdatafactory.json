@@ -1,0 +1,15 @@
+{
+	"name": "shivanshdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "941bf05b-57aa-4160-a50a-9ff00fea885b",
+		"tenantId": "91b2435e-9d98-4145-b589-82511fa78a03"
+	}
+}
